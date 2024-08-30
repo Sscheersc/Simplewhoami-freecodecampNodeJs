@@ -16,7 +16,4 @@ To use the microservice, make a GET request to the following endpoint:
 
 [base_url]/api/whoami
 
-csharp
-
-
 Replace `[base_url]` with the actual URL where your application is hosted.
